@@ -58,7 +58,7 @@ function Main() {
 
   return (
     <div className="main">
-      <div className="cardGrid">
+      <div className="card-grid">
         {displayCards()}
       </div>
     </div>  
