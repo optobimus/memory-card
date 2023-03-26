@@ -1,8 +1,14 @@
 .header {
-    background-color: #1D3557;
+    background-color: #0B5831;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
+    gap: 20px;
+}
+
+.header img {
+    height: 50px;
+    width: auto;
 }
