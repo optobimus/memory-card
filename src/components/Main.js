@@ -38,19 +38,22 @@ function Main() {
             { key: uniqid(), img: gale, text: "Gale" },
         ]
     )
+    const [currentID, setCurrentID] = useState(null);
 
     const displayCards = () => {
         return cards.map(card => (
-            <Card key={card.key} img={card.img} text={card.text} onClick={randomOrder}/>
+            <Card id={card.key} img={card.img} text={card.text} onClick={randomOrder}/>
         ));
     }
 
-    const randomOrder = () => {
+    const randomOrder = (id) => {
+        setCurrentID(id);
         const shuffledCards = [...cards];
         shuffledCards.sort(() => Math.random() - 0.5);
         setCards(shuffledCards);
       };
-      
+
+    const getIDs = () => cards.map((card) => card.key);
 
     useEffect(() => {
         randomOrder();
@@ -58,6 +61,7 @@ function Main() {
 
   return (
     <div className="main">
+      <Scoreboard IDs={getIDs()} currentID={currentID}/>
       <div className="card-grid">
         {displayCards()}
       </div>

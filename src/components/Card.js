@@ -1,8 +1,12 @@
 import React from "react";
 
-function Card({ key, img, text, onClick }) {
+function Card({ id, img, text, onClick }) {
+
+  const handleClick = (e) => {
+    onClick(e.currentTarget.dataset.id);
+  }
   return (
-    <div className="card" onClick={onClick}>
+    <div data-id={id} className="card" onClick={handleClick}>
       <img src={img} alt={text}></img>
       {text}
     </div>  
