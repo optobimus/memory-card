@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.92d6d245.css",
+    "main.js": "/memory-card/static/js/main.9efe5356.js",
+    "static/media/hectorsalamanca.jpg": "/memory-card/static/media/hectorsalamanca.863597e2730e15692ee8.jpg",
+    "static/media/WalterWhite.webp": "/memory-card/static/media/WalterWhite.a7db0ce9eb1151343050.webp",
+    "static/media/walterjr.png": "/memory-card/static/media/walterjr.d98a501abcc9ff67980f.png",
+    "static/media/gustavofring.webp": "/memory-card/static/media/gustavofring.1ac5939d0bb70a7f9ee5.webp",
+    "static/media/jessepinkman.webp": "/memory-card/static/media/jessepinkman.3abe97e7bf1fdcf0087a.webp",
+    "static/media/tucosalamanca.jpg": "/memory-card/static/media/tucosalamanca.f059688a981006b62e52.jpg",
+    "static/media/skylerwhite.jpeg": "/memory-card/static/media/skylerwhite.5227f271783eb56ada3a.jpeg",
+    "static/media/mikeehrmantraut.webp": "/memory-card/static/media/mikeehrmantraut.af21e2f94c33db13389f.webp",
+    "static/media/huelbabineaux.avif": "/memory-card/static/media/huelbabineaux.b56da11ace599eac8b16.avif",
+    "static/media/saulgoodman.webp": "/memory-card/static/media/saulgoodman.cb20d85af1394a5da410.webp",
+    "static/media/galeboetticher.jpg": "/memory-card/static/media/galeboetticher.7ece8ab32622e2b196fc.jpg",
+    "static/media/hankschrader.jpg": "/memory-card/static/media/hankschrader.5da4cd867447f134dabb.jpg",
+    "static/media/logo.svg": "/memory-card/static/media/logo.f633a3647c8220651a5380df6feac066.svg",
+    "index.html": "/memory-card/index.html",
+    "main.92d6d245.css.map": "/memory-card/static/css/main.92d6d245.css.map",
+    "main.9efe5356.js.map": "/memory-card/static/js/main.9efe5356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d6d245.css",
+    "static/js/main.9efe5356.js"
+  ]
+}
