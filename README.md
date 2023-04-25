@@ -6,6 +6,10 @@
 
 A simple memory card application game, getting the user to try to pick a new card every time in order to improve their score! I made it themed after the popular show Breaking Bad.
 
+## Demo
+
+🖥️ <a href="https://optobimus.github.io/memory-card/">Live Demo</a>
+
 ## Motivation
 
 I used this project to practice further to use hooks and lifecycle methods as well as state. This was also a great opportunity to practice CSS grid and its functionalities, making it resize the grid depending on your screen size.
