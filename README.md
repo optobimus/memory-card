@@ -1,6 +1,6 @@
 # Memory Card
 
-file:///home/tobi/Videos/Screencasts/Screencast%20from%2025-04-2023%2015:46:54.webm
+![Screencast from 25-04-2023 15_51_27](https://user-images.githubusercontent.com/113835194/234299074-804b3ea3-3f85-4f3e-8b68-3bbb79952330.gif)
 
 ## Short description
 
